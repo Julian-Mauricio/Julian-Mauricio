@@ -6,7 +6,7 @@
 </p>
 
 
-<img align="left" src="https://i.pinimg.com/564x/03/e3/62/03e3623da0915e04dfbd5a2d76308bd6.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://i.pinimg.com/564x/45/08/b2/4508b274a58b92b78c620211945d83bb.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 
 
 <hr>
