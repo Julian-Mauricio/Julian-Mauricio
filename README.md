@@ -1,15 +1,25 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<h1 align="center">Hola, soy Mauricio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola, <a href="https://github.com/MrBlueBird2">soy Mauricio </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Freelancer&center=true&width=380&height=45"></a>
 </p>
 
 
+<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<hr>
+
+```
+I-am-vishalmaurya@github
+-------------------------
+Soy un developer enamorado de React enfocado en el área de desarrollo <br>web capacitado para afrontar cualquier reto poseo un enfoque en el <br>desarrollo de aplicaciones web dinámicas, intuitivas y eficientes estoy <br>comprometido a diseñar soluciones que impulsen el rendimiento y <br>experiencia de usuario. Con habilidad de comunicación, capacidad para <br>trabajar en equipo, aceptación de críticas y actitud positiva
+```
+<hr>
+
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Sobre mi
-Soy un developer UX enamorado de React enfocado en el área de desarrollo <br>web capacitado para afrontar cualquier reto poseo un enfoque en el <br>desarrollo de aplicaciones web dinámicas, intuitivas y eficientes estoy <br>comprometido a diseñar soluciones que impulsen el rendimiento y <br>experiencia de usuario. Con habilidad de comunicación, capacidad para <br>trabajar en equipo, aceptación de críticas y actitud positiva
+
 
 
 ## 🌐 Socials:
