@@ -10,15 +10,18 @@
 <hr>
 
 ```
-I-am-vishalmaurya@github
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Sobre mi
 -------------------------
-Soy un developer enamorado de React enfocado en el área de desarrollo <br>web capacitado para afrontar cualquier reto poseo un enfoque en el <br>desarrollo de aplicaciones web dinámicas, intuitivas y eficientes estoy <br>comprometido a diseñar soluciones que impulsen el rendimiento y <br>experiencia de usuario. Con habilidad de comunicación, capacidad para <br>trabajar en equipo, aceptación de críticas y actitud positiva
+Soy un developer enamorado de React enfocado en el área de desarrollo <br>web
+capacitado para afrontar cualquier reto poseo un enfoque en el <br>desarrollo de aplicaciones web dinámicas
+intuitivas y eficientes estoy <br>comprometido a diseñar soluciones que impulsen el rendimiento y <br>experiencia de usuario
+Con habilidad de comunicación, capacidad para <br>trabajar en equipo, aceptación de críticas y actitud positiva
 ```
 <hr>
 
 
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Sobre mi
 
 
 
