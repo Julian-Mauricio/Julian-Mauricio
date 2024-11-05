@@ -1,3 +1,5 @@
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 # 💫 Sobre mi:
 Soy un developer UX enamorado de React enfocado en el área de desarrollo <br>web capacitado para afrontar cualquier reto poseo un enfoque en el <br>desarrollo de aplicaciones web dinámicas, intuitivas y eficientes estoy <br>comprometido a diseñar soluciones que impulsen el rendimiento y <br>experiencia de usuario. Con habilidad de comunicación, capacidad para <br>trabajar en equipo, aceptación de críticas y actitud positiva
 
